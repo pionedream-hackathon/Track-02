@@ -1,0 +1,22 @@
+{
+  "name": "demo-dex-hackathon",
+  "version": "1.0.0",
+  "description": "demo dex hackathon PioneDream",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "keywords": [
+    "demo swap"
+  ],
+  "author": "PioneDream",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.2"
+  }
+}
